@@ -9,7 +9,7 @@ intreg main()
 {
     printeaza_string("Hello,world!");
 }
-``
+```
 
 Cu urmatoarele functii poti face:
 
